@@ -2,6 +2,8 @@
 
 Design by Tim O'Brien [t413.com](http://t413.com/)
 &mdash;
+![meerkatgames_logo](https://user-images.githubusercontent.com/42053297/43628861-6f4ed582-9736-11e8-9f0f-3949785edd40.png){: width="100px" height="100px"}
+&mdash;
 서울특별시 강남구 강남대로 364 미왕빌딩 17층 (주)미어캣게임즈
 &mdash;
 TEL : +82-70-4335-0361
