@@ -7,6 +7,9 @@ Design by Tim O'Brien [t413.com](http://t413.com/)
 TEL : +82-70-4335-0361
 FAX :
 &mdash;
+사업문의 : <contact@meerkatgames.co.kr>
+고객지원 : <support@meerkatgames.co.kr>
+&mdash;
 [SinglePaged theme](https://github.com/t413/SinglePaged)
 &mdash;
 this site is [open source]({{ site.source_link }})
