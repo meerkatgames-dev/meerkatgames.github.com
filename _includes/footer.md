@@ -10,6 +10,8 @@ FAX :
 사업문의 : <contact@meerkatgames.co.kr>
 고객지원 : <support@meerkatgames.co.kr>
 &mdash;
+©Meerkatgames. All Rights Reserved.
+&mdash;
 [SinglePaged theme](https://github.com/t413/SinglePaged)
 &mdash;
 this site is [open source]({{ site.source_link }})
