@@ -201,8 +201,7 @@ nav ul li:hover, nav ul li.active {
   -moz-border-radius:25%;
   -webkit-border-radius:25%;
   box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
-  /* background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=); */
-  background:url(img/bgnoise.png);	
+  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);	
 }
 
 .sectiondivider {
