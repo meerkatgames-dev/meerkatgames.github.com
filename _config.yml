@@ -34,6 +34,7 @@ colors:
   turquoise: '#0fbfcf'
   gray:      '#797575'
   red:       '#ddf4141'
+  map:       '#efece5'
 
 kramdown:
   auto_ids:  false
