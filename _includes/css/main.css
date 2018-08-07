@@ -236,6 +236,7 @@ nav ul li:hover, nav ul li.active {
   text-transform:uppercase;
   position:absolute;
   bottom:10px;
+  /* bottom:50px; */
   left:auto;
   text-align:center;
   display:block;
