@@ -243,7 +243,8 @@ nav ul li:hover, nav ul li.active {
   text-align:center;
   display:block;
   z-index:6;
-  width:240px;
+  width:150px;
+	/* width:240px; */
 }
 
 .sectiondivider.imaged {
