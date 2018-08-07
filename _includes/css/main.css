@@ -221,10 +221,10 @@ nav ul li:hover, nav ul li.active {
 .sectiondivider img {
   /* width:200px; */
   /* height:200px; */
-  width:150px;
+  width:125px;
   height:125px;
   position: static;
-  margin-top: 10px;
+  margin-top: 0px;
 	/* margin-top: -20px; */
 }
 
