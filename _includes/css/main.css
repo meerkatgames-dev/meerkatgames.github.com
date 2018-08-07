@@ -203,6 +203,8 @@ nav ul li:hover, nav ul li.active {
 .sectiondivider {
   width:100px;
   height:100px;
+  /* width:270px;
+  height:270px; */
   padding:15px;
   position:absolute;
   top:-135px;
