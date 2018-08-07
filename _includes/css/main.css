@@ -224,7 +224,7 @@ nav ul li:hover, nav ul li.active {
   width:150px;
   height:125px;
   position: static;
-  margin-top: 0px;
+  margin-top: 10px;
 	/* margin-top: -20px; */
 }
 
@@ -235,8 +235,7 @@ nav ul li:hover, nav ul li.active {
   margin-top: -8px;
 }
 .sectiondivider .fa-square { 
-	color: #fff; 
-	margin-top: 10px
+	color: #fff; 	
 }
 
 .sectiondivider h5 {
