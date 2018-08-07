@@ -178,7 +178,7 @@ nav ul li:hover, nav ul li.active {
 
 .section:first-of-type {
     padding-top: 140px;
-    background:url(img/firstpostbg.jpg);
+    /* background:url(img/firstpostbg.jpg); */
 }
 
 
@@ -202,8 +202,8 @@ nav ul li:hover, nav ul li.active {
 }
 
 .sectiondivider {
-  width:270px;
-  height:270px;
+  width:150px;
+  height:150px;
   /* width:270px;
   height:270px; */
   padding:15px;
