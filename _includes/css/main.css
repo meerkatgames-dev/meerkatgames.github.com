@@ -234,7 +234,10 @@ nav ul li:hover, nav ul li.active {
   position: static;
   margin-top: -8px;
 }
-.sectiondivider .fa-square { color: #fff; }
+.sectiondivider .fa-square { 
+	color: #fff; 
+	margin-top: 10px
+}
 
 .sectiondivider h5 {
   font-size:20px;
