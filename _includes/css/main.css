@@ -241,13 +241,13 @@ nav ul li:hover, nav ul li.active {
   font-weight:700;
   text-transform:uppercase;
   position:absolute;
-  bottom:10px;
+  bottom:15px;
   /* bottom:50px; */
   left:auto;
   text-align:center;
   display:block;
   z-index:6;
-  width:125px;
+  width:120px;
 	/* width:240px; */
 }
 
