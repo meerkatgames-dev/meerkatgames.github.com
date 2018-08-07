@@ -222,7 +222,8 @@ nav ul li:hover, nav ul li.active {
 }
 
 .sectiondivider .fa-stack {
-  font-size: 130px;
+  /* font-size: 130px; */
+  font-size: 70px;
   position: static;
   margin-top: -8px;
 }
