@@ -196,23 +196,23 @@ nav ul li:hover, nav ul li.active {
   border-radius:50%;
   -moz-border-radius:50%;
   -webkit-border-radius:50%;
-  box-shadow: 0px 1px 5px rgba(0,0,0,0.05);
+  box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
   background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
 }
 
 .sectiondivider {
-  width:170px;
-  height:170px;
+  width:270px;
+  height:270px;
   padding:15px;
   position:absolute;
-  top:-85px;
+  top:-135px;
   left:50%;
-  margin-left:-85px;
+  margin-left:-135px;
 }
 
 .sectiondivider img {
-  width:100px;
-  height:100px;
+  width:200px;
+  height:240px;
   position: static;
   margin-top: -20px;
 }
@@ -225,7 +225,7 @@ nav ul li:hover, nav ul li.active {
 .sectiondivider .fa-circle { color: #fff; }
 
 .sectiondivider h5 {
-  font-size:20px;
+  font-size:15px;
   font-weight:700;
   text-transform:uppercase;
   position:absolute;
