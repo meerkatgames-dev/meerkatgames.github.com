@@ -224,7 +224,7 @@ nav ul li:hover, nav ul li.active {
   width:125px;
   height:125px;
   position: static;
-  margin-top: 0px;
+  margin-top: -3px;
 	/* margin-top: -20px; */
 }
 
