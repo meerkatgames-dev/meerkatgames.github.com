@@ -368,12 +368,12 @@ nav ul li:hover, nav ul li.active {
 }
 
 
-/* tiny size (phones) 
+tiny size (phones) 
 @media only screen and (max-width: 380px) {
   nav ul li { min-width:90px; line-height:20px; }
 }
 
-/* anything not desktop 
+anything not desktop 
 @media only screen and (max-width: 767px) {
 	.container h1 { font-size: 30px; }
 	.container h2 { font-size: 24px; }
@@ -409,4 +409,4 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
-*/
+
